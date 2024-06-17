@@ -1,5 +1,5 @@
 import { PublicKey } from '@solana/web3.js'
-import BN, { isBN } from 'bn.js'
+import { BN, isBN } from 'bn.js';
 
 import {
   Blob,
